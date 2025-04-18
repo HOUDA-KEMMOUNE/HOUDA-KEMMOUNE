@@ -17,6 +17,7 @@ Hello there, I'm Houda, I'm currently studying computer science at 1337<br>{42 N
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![snake gif](https://github.com/HOUDA-KEMMOUNE/HOUDA-KEMMOUNE/blob/output/github-snake-dark.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HOUDA-KEMMOUNE&limit=5&theme=dark&combine_all_yearly_contributions=true)
