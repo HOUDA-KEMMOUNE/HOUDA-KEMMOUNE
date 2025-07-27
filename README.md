@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello there, I'm Houda, I'm currently studying IT (Information Technology) at 1337<br>{42 NETWORK}  ;D
-
+Hey there, I'm Houda, and I'm presently enrolled in 1337 {42 NETWORK} School of Computer Science, which uses a project-based, peer-to-peer learning approach.</br>Software development, systems programming, and algorithms were the main topics.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kemmounehouda/?hl=en) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KemmouneHouda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:houdakemmoune2006@gmail.com) 
