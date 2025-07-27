@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, I'm Houda, I'm currently studying computer science at 1337<br>{42 NETWORK}  ;D
+Hello there, I'm Houda, I'm currently studying IT (Information Technology) at 1337<br>{42 NETWORK}  ;D
 
 
 ## 🌐 Socials:
